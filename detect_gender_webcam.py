@@ -1,9 +1,9 @@
 # Gender_Detection
 
 ############
-Author: Rishav Mishra
-Date: 08-09-2021
-coding: utf-8
+#Author: Rishav Mishra
+#Date: 08-09-2021
+#coding: utf-8
 ############
 
 from tensorflow.keras.preprocessing.image import img_to_array
